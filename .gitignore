@@ -1,3 +1,4 @@
 node_modules/
 mongodb-macos-aarch64-7.0.0/
 *.log
+*.odt
